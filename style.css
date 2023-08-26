@@ -1,0 +1,33 @@
+/* * {
+    background-color: aqua;
+} */
+
+#signup {
+    width: 300px;
+    background-color: white;
+    margin: 30px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+
+form {
+    margin: 50px;
+}
+
+form label {
+    display: flex;
+}
+
+form input {
+    margin: 5px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+#button {
+    background-color: aqua;
+    font: bold;
+    margin: 30px;
+}
